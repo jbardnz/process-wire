@@ -1,0 +1,8 @@
+2021-05-03 13:31:21	Update #16: Initializing update
+2021-05-03 13:31:21	Update #16: Completed!
+2021-05-03 13:31:32	Update #17: Initializing update
+2021-05-03 13:31:32	WARNING: Update #17: Update skipped because Apache not detected. Please <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>see this post</a> for details on how to apply this update manually.
+2021-05-03 13:31:32	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2021-05-03 13:31:32	Update #17: Completed!
+2021-05-03 13:31:40	Update #18: Initializing update
+2021-05-03 13:31:41	Update #18: Completed!

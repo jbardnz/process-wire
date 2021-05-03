@@ -1,0 +1,1 @@
+2021-05-03 13:33:48	admin	http://processwire.local/admin/page/edit/?id=1001&modal=1&field=images&uploadOnlyMode=1&InputfieldFileAjax=1	GD Resized: mothers_day_hamper.jpg => mothers_day_hamper.260x0.jpg (260x0) 1.1904 secs 2059717 => 47637 bytes (quality=90, sharpening=soft)

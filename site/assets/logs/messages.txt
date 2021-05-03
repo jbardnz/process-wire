@@ -1,0 +1,7 @@
+2021-05-03 13:31:40	guest	http://processwire.local/admin/login/	Added 'filesize' to DB schema for 'images' (FieldtypeImage)
+2021-05-03 13:31:40	guest	http://processwire.local/admin/login/	Added 'created_users_id' to DB schema for 'images' (FieldtypeImage)
+2021-05-03 13:31:40	guest	http://processwire.local/admin/login/	Added 'modified_users_id' to DB schema for 'images' (FieldtypeImage)
+2021-05-03 13:31:41	guest	http://processwire.local/admin/login/	Added 'filedata' to DB schema for 'images' (FieldtypeImage)
+2021-05-03 13:31:41	guest	http://processwire.local/admin/login/	Added 'width' to DB schema for 'images' (FieldtypeImage)
+2021-05-03 13:31:41	guest	http://processwire.local/admin/login/	Added 'height' to DB schema for 'images' (FieldtypeImage)
+2021-05-03 13:31:41	guest	http://processwire.local/admin/login/	Added 'ratio' to DB schema for 'images' (FieldtypeImage)
