@@ -37,8 +37,8 @@ $config->useFunctionsAPI = true;
  */
 $config->dbHost = 'localhost';
 $config->dbName = 'processwire';
-$config->dbUser = 'root';
-$config->dbPass = 'jd';
+$config->dbUser = 'forge';
+$config->dbPass = '0FhYjYeFfEDWnIPOvuMj';
 $config->dbPort = '3306';
 $config->dbCharset = 'utf8mb4';
 
